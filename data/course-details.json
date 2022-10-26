@@ -1,0 +1,79 @@
+[
+  {
+    "id": "01",
+    "name": "JavaScript",
+    "title": "Javascript beginner to expert ",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "The JavaScript Specialist course focuses on the fundamental concepts of the JavaScript language. This course will empower you with the skills to design client-side, platform-independent solutions that greatly increase the value of your Web site by providing interactivity and interest. You will learn how to use JavaScript to communicate with users, modify the Document Object Model (DOM), control program flow, validate forms, animate images, create cookies, change HTML on the fly, and communicate with databases.",
+    "teacher": "Jhonkar vai",
+    "duration": "6 months",
+    "fee": "12000",
+    "total_enrolled": "6000"
+  },
+  {
+    "id": "02",
+    "name": "Python",
+    "title": "Python beginner to expert ",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Certificate course in Python is a short-term course, which is generally of 6-8 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course.",
+    "teacher": "Jhonkar vai",
+    "duration": "10 months",
+    "fee": "25000",
+    "total_enrolled": "4000"
+  },
+  {
+    "id": "03",
+    "name": "Java",
+    "title": "Java beginner to expert ",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": " Do you wish to learn One of the most popular programming languages in the world that draws everyone’s attention? Then this article is going to be worth reading as it has everything related to high-level programming Language Java. You can refer to the details like Certification Course Eligibility, Institutes Offering Java, Syllabus, etc. Be clear about the Fee Structure, Course Duration, and Admission Procedure needed for this Certification Course.",
+    "teacher": "Jhonkar vai",
+    "duration": "4 months",
+    "fee": "22000",
+    "total_enrolled": "8000"
+  },
+  {
+    "id": "04",
+    "name": "C#",
+    "title": "C# beginner to expert ",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "This C#.NET training teaches non-experienced people how to create the Solutions/Applications using C#.NET.  C#.NET is Microsoft’s entry into the world of managed programming. Using a syntax that is deliberately from Java, C++ and C, C#.NET achieves a natural trade-off of terseness and clarity,  enabling programmers to express concepts in a clear and maintainable form. The recent enhancements to the language have made it even more powerful than before, allowing programmers to work with C#.NET in both an Object-Oriented and partially functional style.",
+    "teacher": "Jhonkar vai",
+    "duration": "9 months",
+    "fee": "25000",
+    "total_enrolled": "9000"
+  },
+  {
+    "id": "05",
+    "name": "Machine Learning",
+    "title": "Machine beginner to expert ",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Machine Learning is a branch of Computer Science that uses algorithms to imitate the way in which humans learn. It uses statistical methods to train algorithms and make predictions. The accuracy of these predictions improves over time.",
+    "teacher": "Jhonkar vai",
+    "duration": "7 months",
+    "fee": "18000",
+    "total_enrolled": "7000"
+  },
+  {
+    "id": "06",
+    "name": "React Js",
+    "title": "React Js beginner to expert ",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "The world can't live without mobile and web applications in this day and age. Everything is digitized, from booking cabs to ordering food to make bank transactions. Thanks to the efficient frameworks that provide a seamless user experience. One such robust frontend library is React. This tutorial on ‘what is React’ will help you understand the library's fundamentals and work with a simple demo.",
+    "teacher": "Jhonkar vai",
+    "duration": "5 months",
+    "fee": "11000",
+    "total_enrolled": "12000"
+  },
+  {
+    "id": "07",
+    "name": "Tailwind Css",
+    "title": "Tailwind Css beginner to expert ",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "While the ways in which we work on the web evolve over time, every now and then, a true game changer comes along. The utility-first approach of Tailwind 3 throws out many of the traditional approaches to building projects on the web, allowing you to create a complete and unique website without writing a single line of CSS. In this course, LinkedIn senior staff instructor Ray Villalobos shows how Tailwind CSS 3 offers a lightweight but sophisticated framework for styling content on your sit",
+    "teacher": "Jhonkar vai",
+    "duration": "2 months",
+    "fee": "2000",
+    "total_enrolled": "3000"
+  }
+]

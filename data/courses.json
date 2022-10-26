@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "name": "JavaScript"
+  },
+  {
+    "id": "02",
+    "name": "Python"
+  },
+  {
+    "id": "03",
+    "name": "Java"
+  },
+  {
+    "id": "04",
+    "name": "C#"
+  },
+  {
+    "id": "05",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "06",
+    "name": "ReactJs"
+  },
+  {
+    "id": "07",
+    "name": "Tailwind Css"
+  }
+]
